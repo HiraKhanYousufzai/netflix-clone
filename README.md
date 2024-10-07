@@ -1,4 +1,4 @@
-Netflix Clone
+## Netflix Clone
 ## Description
 Developed a responsive, multi-device Netflix clone using HTML, CSS, and JavaScript. Implemented core UI components such as navigation, hero section, and FAQ, replicating Netflix's user interface.
 
