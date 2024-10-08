@@ -1,15 +1,14 @@
-## Netflix Clone
-## Description
-Developed a responsive, multi-device Netflix clone using HTML, CSS, and JavaScript. Implemented core UI components such as navigation, hero section, and FAQ, replicating Netflix's user interface.
+Here's a simplified and revised version:
 
-## Key Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+**Description:**  
+Created a responsive Netflix clone using HTML and CSS. Reproduced core UI elements like the navigation bar, hero section, and FAQ to resemble Netflix’s interface.
 
-## Key Features
-- Custom navigation bar with interactive buttons.
-- Video playback integration.
-- Responsive design for mobile and desktop views.
-- User interaction capabilities for language selection, email input, and membership options.
-- Advanced CSS styling, including media queries for responsiveness.
+**Key Technologies Used:**  
+- HTML5  
+- CSS3  
+
+**Key Features:**  
+- Custom navigation bar with styled buttons.  
+- Responsive design optimized for mobile and desktop.  
+- User interaction with language selection and email input fields.  
+- Advanced CSS techniques, including media queries for responsiveness.
